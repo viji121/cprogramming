@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+float pi=3.14,area,r,c;
+int main()
+{
+printf("enter the radius",r);
+scanf("%f,&r);
+area=(pi*r*r)
+printf("\nareaofcircle %f",area);
+c=2*pi*r;
+printf("\ncircumference" %f",c);
+getch();
+return 0;
+}
+
