@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+int main
+{
+int year,nextyear,i;
+printf("enter the year");
+scanf("%d",&year);
+if(year%4==0);
+{
+printf("the given year is leap year");
+nextyear=year+4;
+printf("the next leap year is on");
+}
+else
+{
+printf("the given year is not a leap year");
+}
+for(i=year;i>year;i++);
+{
+if(i%4==0);
+}
+nextyear=i;
+printf("%d",nextyear)
+break;
+}
